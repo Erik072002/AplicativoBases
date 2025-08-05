@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "VistaPersonaEmpleado";
+}
+
+<h2>VistaPersonaEmpleado</h2>
+
+@(Html.DevExtreme().DataGrid<DevAplicativoBases.Models.VistaPersonaEmpleado>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("VistaPersonaEmpleado")
+        .LoadAction("Get")
+        .Key("idPersonas")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.idPersonas);
+
+        columns.AddFor(m => m.PrimerNombre);
+
+        columns.AddFor(m => m.SegundoNombre);
+
+        columns.AddFor(m => m.PrimerApellido);
+
+        columns.AddFor(m => m.SegundoApellido);
+
+        columns.AddFor(m => m.Correo);
+
+        columns.AddFor(m => m.Direccion);
+
+        columns.AddFor(m => m.idEmpleado);
+
+        columns.AddFor(m => m.idBiblioteca);
+
+        columns.AddFor(m => m.FechaRegistro);
+
+        columns.AddFor(m => m.Jornada);
+
+        columns.AddFor(m => m.SueldoNeto);
+
+        columns.AddFor(m => m.Salario);
+    })
+)

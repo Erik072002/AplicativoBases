@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Cliente";
+}
+
+<h2>Cliente</h2>
+
+@(Html.DevExtreme().DataGrid<DevAplicativoBases.Models.Cliente>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Cliente")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("IdCliente")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.IdCliente);
+
+        columns.AddFor(m => m.FechaRegistro);
+
+        columns.AddFor(m => m.IdPersonas);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)

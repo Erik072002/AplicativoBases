@@ -1,0 +1,972 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|c:\\users\\gerik\\source\\repos\\aplicativobases\\aplicativobases\\controllers\\vistapersonaempleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\vistapersonaempleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\beneficios_has_sucripcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\beneficios_has_sucripcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\empleado_has_facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\empleado_has_facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\empleado_planillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\empleado_planillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\historico_de_cargoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\historico_de_cargoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\historico_de_jefescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\historico_de_jefescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\historicodeareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\historicodeareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\libro_has_facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\libro_has_facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\libro_has_prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\libro_has_prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\planilladepagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\planilladepagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\resenacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\resenacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\controllers\\suscripcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\controllers\\suscripcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\vistapersonaempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\vistapersonaempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\libro_has_facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\libro_has_facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\libro_has_prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\libro_has_prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\areadetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\areadetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\beneficios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\beneficios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\beneficios_has_sucripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\beneficios_has_sucripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\empleado_has_facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\empleado_has_facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\empleado_planilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\empleado_planilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\estadodelasuscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\estadodelasuscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\estantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\estantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\resena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\resena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\sucripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\sucripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\metodo_de_pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\metodo_de_pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\niveldesuscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\niveldesuscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\planilladepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\planilladepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\historico_de_jefes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\historico_de_jefes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\historicodeareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\historicodeareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\historico_de_cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\historico_de_cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\tipodelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\tipodelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\telefonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\telefonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AplicativoBases||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|C:\\Users\\gerik\\source\\repos\\AplicativoBases\\aplicativobases\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FFE6BB-F495-4238-864F-AA1727EB26D2}|AplicativoBases\\AplicativoBases.csproj|solutionrelative:aplicativobases\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EMPLEADO_PLANILLAController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\EMPLEADO_PLANILLAController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\EMPLEADO_PLANILLAController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\EMPLEADO_PLANILLAController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\EMPLEADO_PLANILLAController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:25:04.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado_has_FacturacionController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Empleado_has_FacturacionController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\Empleado_has_FacturacionController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Empleado_has_FacturacionController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\Empleado_has_FacturacionController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:58:53.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:25:29.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Beneficios_has_SucripcionController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Beneficios_has_SucripcionController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\Beneficios_has_SucripcionController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Beneficios_has_SucripcionController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\Beneficios_has_SucripcionController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:07:47.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreasController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\AreasController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\AreasController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\AreasController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\AreasController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:15:21.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Areas.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Areas.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Areas.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Areas.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Areas.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:11:23.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VistaPersonaEmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\VistaPersonaEmpleadoController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\VistaPersonaEmpleadoController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\VistaPersonaEmpleadoController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\VistaPersonaEmpleadoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:55:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:41:41.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacturacionController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\FacturacionController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\FacturacionController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\FacturacionController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\FacturacionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:49:23.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Historico_De_CargosController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Historico_De_CargosController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\Historico_De_CargosController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Historico_De_CargosController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\Historico_De_CargosController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAWwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:52:57.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Historico_De_JefesController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Historico_De_JefesController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\Historico_De_JefesController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Historico_De_JefesController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\Historico_De_JefesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:47:40.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HistoricoDeAreasController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\HistoricoDeAreasController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\HistoricoDeAreasController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\HistoricoDeAreasController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\HistoricoDeAreasController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:19:23.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:19:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Libro_has_FacturacionController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Libro_has_FacturacionController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\Libro_has_FacturacionController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Libro_has_FacturacionController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\Libro_has_FacturacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:20:09.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Libro_has_PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Libro_has_PrestamosController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\Libro_has_PrestamosController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\Libro_has_PrestamosController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\Libro_has_PrestamosController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwD0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:09:25.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\LibroController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T23:01:09.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:55:56.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlanillaDePagoController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\PlanillaDePagoController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\PlanillaDePagoController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\PlanillaDePagoController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\PlanillaDePagoController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:14:18.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:18:35.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResenaController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\ResenaController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\ResenaController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\ResenaController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\ResenaController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:25:56.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SuscripcionController.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\SuscripcionController.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Controllers\\SuscripcionController.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Controllers\\SuscripcionController.cs",
+              "RelativeToolTip": "AplicativoBases\\Controllers\\SuscripcionController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:57:42.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Biblioteca.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Biblioteca.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:06:32.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Cargo.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Cargo.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Cargo.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Cargo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:09:55.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Cliente.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:19:53.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Libro_has_Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Libro_has_Prestamos.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Libro_has_Prestamos.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Libro_has_Prestamos.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Libro_has_Prestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:02:58.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VistaPersonaEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\VistaPersonaEmpleado.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\VistaPersonaEmpleado.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\VistaPersonaEmpleado.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\VistaPersonaEmpleado.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:52:51.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Personas.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Personas.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Personas.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Personas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:34:55.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\MiDbContext.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\MiDbContext.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\MiDbContext.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\MiDbContext.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:38:11.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "AplicativoBases\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:51:03.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Facturacion.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Facturacion.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Facturacion.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Facturacion.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Facturacion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:44:41.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Global.asax.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Global.asax.cs",
+              "RelativeToolTip": "AplicativoBases\\Global.asax.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:56:18.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Empleado.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Empleado.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:06:00.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Libro_has_Facturacion.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Libro_has_Facturacion.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Libro_has_Facturacion.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Libro_has_Facturacion.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Libro_has_Facturacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:17:11.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Beneficios_has_Sucripcion.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Beneficios_has_Sucripcion.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Beneficios_has_Sucripcion.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Beneficios_has_Sucripcion.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Beneficios_has_Sucripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:04:11.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Beneficios.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Beneficios.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Beneficios.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Beneficios.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Beneficios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:39:28.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Autor.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Autor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:47:11.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Empleado_has_Facturacion.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Empleado_has_Facturacion.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Empleado_has_Facturacion.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Empleado_has_Facturacion.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Empleado_has_Facturacion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:52:59.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AreaDeTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\AreaDeTrabajo.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\AreaDeTrabajo.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\AreaDeTrabajo.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\AreaDeTrabajo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:03:05.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EMPLEADO_PLANILLA.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\EMPLEADO_PLANILLA.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\EMPLEADO_PLANILLA.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\EMPLEADO_PLANILLA.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\EMPLEADO_PLANILLA.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:01:00.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Estado.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Estado.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Estado.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:58:28.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EstadoDeLaSuscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\EstadoDeLaSuscripcion.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\EstadoDeLaSuscripcion.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\EstadoDeLaSuscripcion.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\EstadoDeLaSuscripcion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:36:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Estantes.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Estantes.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Estantes.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Estantes.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Estantes.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:41:57.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Prestamos.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Prestamos.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Prestamos.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:13:04.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Resena.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Resena.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Resena.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Resena.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Resena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:21:27.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Sucripcion.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Sucripcion.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Sucripcion.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Sucripcion.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Sucripcion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:49:40.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Metodo_De_Pago.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Metodo_De_Pago.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Metodo_De_Pago.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Metodo_De_Pago.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Metodo_De_Pago.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:42:46.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NivelDeSuscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\NivelDeSuscripcion.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\NivelDeSuscripcion.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\NivelDeSuscripcion.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\NivelDeSuscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:31:39.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Historico_De_Jefes.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Historico_De_Jefes.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Historico_De_Jefes.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Historico_De_Jefes.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Historico_De_Jefes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:40:15.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PlanillaDePago.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\PlanillaDePago.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\PlanillaDePago.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\PlanillaDePago.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\PlanillaDePago.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:04:00.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HistoricoDeAreas.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\HistoricoDeAreas.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\HistoricoDeAreas.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\HistoricoDeAreas.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\HistoricoDeAreas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:15:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Sala.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Sala.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Sala.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Sala.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:09:00.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Historico_De_Cargos.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Historico_De_Cargos.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Historico_De_Cargos.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Historico_De_Cargos.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Historico_De_Cargos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:48:48.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TipoDeLibro.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\TipoDeLibro.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\TipoDeLibro.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\TipoDeLibro.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\TipoDeLibro.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:44:12.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Libro.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Libro.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:45:43.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Telefonos.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Telefonos.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\Models\\Telefonos.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Models\\Telefonos.cs",
+              "RelativeToolTip": "AplicativoBases\\Models\\Telefonos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:37:59.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Web.config",
+              "RelativeDocumentMoniker": "AplicativoBases\\Web.config",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\Web.config",
+              "RelativeToolTip": "AplicativoBases\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-03T04:47:28.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AplicativoBases",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\AplicativoBases.csproj",
+              "RelativeDocumentMoniker": "AplicativoBases\\AplicativoBases.csproj",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\AplicativoBases.csproj",
+              "RelativeToolTip": "AplicativoBases\\AplicativoBases.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-03T04:59:04.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\App_Start\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "AplicativoBases\\App_Start\\SwaggerConfig.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAgwAIBAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:58:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "AplicativoBases\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\gerik\\source\\repos\\AplicativoBases\\AplicativoBases\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "AplicativoBases\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:58:13.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
